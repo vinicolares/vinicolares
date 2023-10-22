@@ -8,7 +8,7 @@ Back-end software developer, technology enthusiast interested in full stack.
 
 * 🌍  I'm based in Portugal
 * ✉️  You can contact me at [vinicolares@hotmail.com](mailto:vinicolares@hotmail.com)
-* 🧠  I'm learning API REST e integração
+* 🧠  I'm learning API REST and integration
 * 🤝  I'm open to collaborating on Projects
 * ⚡  And I still haven't found what I'm looking for...
 
