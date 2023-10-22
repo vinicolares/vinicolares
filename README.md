@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vinicius Colares
 ========================================================================================================================================
 
-Desenvolvedor de Software Back-end | Node.js | Typescript | SQL | Git
+Back-end Software Developer | Node.js | Typescript | SQL | Git
 ---------------------------------------------------------------------
 
-Desenvolvedor de software back-end, entusiasta da tecnologia com interesse em full stack.
+Back-end software developer, technology enthusiast interested in full stack.
 
 * 🌍  I'm based in Portugal
 * ✉️  You can contact me at [vinicolares@hotmail.com](mailto:vinicolares@hotmail.com)
